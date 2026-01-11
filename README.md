@@ -41,7 +41,7 @@ olympics-sql-analysis/
 ├── Q9.sql
 ├── Q10.sql
 └── README.md
-
+```
 
 ## Query Highlights
 
