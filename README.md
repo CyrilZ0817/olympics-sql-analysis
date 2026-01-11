@@ -26,10 +26,9 @@ The project uses publicly available Olympic datasets, including:
 - Medal information
 - Country-level demographic and economic data
 
----
-
 ## Project Structure
 
+```text
 olympics-sql-analysis/
 ├── Q1.sql
 ├── Q2.sql
@@ -43,7 +42,6 @@ olympics-sql-analysis/
 ├── Q10.sql
 └── README.md
 
----
 
 ## Query Highlights
 
