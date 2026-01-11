@@ -30,19 +30,16 @@ The project uses publicly available Olympic datasets, including:
 
 ## Project Structure
 olympics-sql-analysis/
-│
-├── queries/
-│ ├── Q1.sql
-│ ├── Q2.sql
-│ ├── Q3.sql
-│ ├── Q4.sql
-│ ├── Q5.sql
-│ ├── Q6.sql
-│ ├── Q7.sql
-│ ├── Q8.sql
-│ ├── Q9.sql
-│ └── Q10.sql
-│
+├── Q1.sql
+├── Q2.sql
+├── Q3.sql
+├── Q4.sql
+├── Q5.sql
+├── Q6.sql
+├── Q7.sql
+├── Q8.sql
+├── Q9.sql
+├── Q10.sql
 └── README.md
 
 
